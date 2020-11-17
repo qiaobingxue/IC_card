@@ -1,2 +1,2 @@
-# IC_card
-card manage system
+# 一卡通管理系统
+慢慢修改中
